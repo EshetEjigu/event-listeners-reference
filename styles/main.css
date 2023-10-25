@@ -1,0 +1,31 @@
+body {
+    background-color: rgb(24, 198, 24);
+}
+
+
+.display-result-red {
+    color: red;
+}
+
+
+
+.display-result-red {
+    color: red;
+}
+
+
+
+
+
+
+#❤️ {
+    font-size: 5rem;
+    text-align: center;
+    transition: transform 3s;
+}
+
+
+#❤️.flipped {
+    transform: rotate(90deg); 
+}
+
